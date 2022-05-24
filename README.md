@@ -1,4 +1,3 @@
 # odin-recipes
-The Odin Project HTML recipes website
 This project is the culmination of an introductory lesson on the use of HTML (Hyper Text Markup Language) to build basic webpages. 
 Key skills learned throughout the lesson include the creation of website framework with HTML boilerplate; the use of elements and attributes to alter text emphasis, add hyperlinks (with both absolute and relative paths), embed images (JPG, PNG, GIF, SVG), and create ordered and unordered lists; and the implementation of the powerful version control system Git to add changes to the staging area and ultimately commit them to a remote server, such as GitHub.
